@@ -72,6 +72,7 @@ It’s time to train a machine learning model on the vectorized dataset and test
 3. XGBoost
    Confusion matix for w2v Random Forest.
    Accuracy 0.764
+   
    ![image](https://user-images.githubusercontent.com/61462986/224089218-a0ebf865-065b-4be7-90ca-bc5b5e22129b.png)
 
 
