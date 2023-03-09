@@ -63,12 +63,14 @@ It’s time to train a machine learning model on the vectorized dataset and test
    Confusion matix for tf-idf Logistic Regression.
    
    Accuracy 0.795
+   
    ![image](https://user-images.githubusercontent.com/61462986/224088480-29307295-9861-40fd-8ddf-7be929b51e75.png)
 
 2. Random Forest
    Confusion matix for w2v Random Forest.
    
    Accuracy 0.676
+   
    ![image](https://user-images.githubusercontent.com/61462986/224088868-a77f0acd-ac5b-4fe3-8c2f-bfdfb7712339.png)
 
 3. XGBoost
