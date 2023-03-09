@@ -60,8 +60,20 @@ We can use any of these approaches to convert our text data to numerical form wh
 
 It’s time to train a machine learning model on the vectorized dataset and test it. I demonstrated the basics of building a text classification model comparing Bag-of-Words (with Tf-Idf) and Word Embedding with Word2Vec with the following ML algorithms.
 1. Logistic Regression
+   Confusion matix for tf-idf Logistic Regression.
+   Accuracy 0.795
+   ![image](https://user-images.githubusercontent.com/61462986/224088480-29307295-9861-40fd-8ddf-7be929b51e75.png)
+
 2. Random Forest
+   Confusion matix for w2v Random Forest.
+   Accuracy 0.676
+   ![image](https://user-images.githubusercontent.com/61462986/224088868-a77f0acd-ac5b-4fe3-8c2f-bfdfb7712339.png)
+
 3. XGBoost
+   Confusion matix for w2v Random Forest.
+   Accuracy 0.764
+   ![image](https://user-images.githubusercontent.com/61462986/224089218-a0ebf865-065b-4be7-90ca-bc5b5e22129b.png)
+
 
 
   
